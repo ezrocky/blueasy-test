@@ -1,0 +1,441 @@
+body {
+	font-family: SegoeUIBold;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.head-wrapper {
+	background-image: url(images/stripe.gif);
+	height: 110px;
+	opacity: 0.8;
+}
+
+header {
+	background-image: url(images/hehe.jpg);
+	height: 800px;
+}
+
+header .col-md-2 {
+	margin-top: 38px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	line-height: 0.8;
+	float: left;
+}
+
+#blue {
+	color: #6fa2cc;
+}
+
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+header ul {
+	margin-top: 43px;
+	float: right;
+}
+
+header li {
+	color: #fff;
+	font-style: bold;
+	font-size: 14px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+
+ header li a {
+ 	color: #fff;
+ }
+
+ ul li.active a {
+ 	color: #4bcaff;
+ 	border: 2px solid #4bcaff;
+ 	padding: 10px;
+ }
+
+ header li a:hover {
+ 	color: #4bcaff;
+ }
+
+.hero-sent {
+	float: center;
+}
+
+.head-hero .col-md-12 {
+	font-family: SegoeUILight;
+	font-size: 42px;
+	line-height: 1.78;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	margin-top: 240px;
+}
+
+#hero1 {
+	background: #4b565e;
+	opacity: 0.8;
+	padding: 0 20px;
+}
+
+#hero2 {
+	background: #4b565e;
+	opacity: 0.8;
+	padding: 0 20px;
+}
+
+.content {
+	height: 405px;
+	background: #4bcaff;
+}
+
+.ser {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #fff;
+	margin-top: 80px;
+	display: block;
+}
+
+.cof {
+	text-transform: uppercase;
+	font-family: SegoeUISemibold;
+	font-size: 24px;
+	line-height: 1;
+	color: #fff;
+	display: block;
+	margin-top: 23px;
+}
+
+.col-md-3 p {
+	font-size: 12px;
+	line-height: 1.5;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.line {
+	margin-top: 8px;
+	display: block;
+}
+
+.coffeeimg {
+	margin-top: 38px;
+}
+
+.col-md-3 h2 {
+	text-transform: uppercase;
+	font-family: SegoeUISemibold;
+	font-size: 24px;
+	line-height: 1;
+	color: #fff;
+}
+
+.col-md-3 .jopa {
+	margin-top: 155px;
+}
+
+.content2 {
+	height: 845px;
+}
+
+.port {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #515f67;
+	margin-top: 80px;
+	display: block;
+}
+
+.content2 ul {
+	float: right;
+	font-size: 14px;
+	line-height: 2;
+	font-family: SegoeUIBold;
+	text-transform: uppercase;
+	color: #515f67;
+	margin-top: 80px;
+}
+
+.content2 li {
+	margin-right: 35px;
+	color: #4bcaff;
+}
+
+.content2-2 img {
+	width: 270px;
+	height: 270px;
+}
+
+.eig {
+	margin-top: 80px;
+}
+
+.thir {
+	margin-top: 30px;
+}
+
+.content3 {
+	height: 473px;
+	background: #515f67;
+}
+
+.just {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #fff;
+	margin-top: 80px;
+	display: block;
+}
+
+.content3 p {
+	font-family: SegoeUIRegular;
+	font-size: 14px;
+	line-height: 1.78;
+	color: #fff;
+}
+
+.visit a {
+	text-transform: uppercase;
+	font-family: SegoeUIBold;
+	font-size: 14px;
+	line-height: 2;
+	color: #353f46;
+	border: 2px solid #353f46;
+	padding: 16px 39px 15px 39px;
+	margin-top: 40px;
+}
+
+.visit a:hover {
+	color: #4bcaff;
+	border-color: #4bcaff; 
+}
+
+.video {
+	margin-top: 75px !important;
+}
+
+.content4 {
+	height: 305px;
+	background-color: #4bcaff;
+}
+
+.twitter {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #fff;
+	margin-top: 80px;
+	display: block;
+}
+
+.content4 p {
+	font-family: SegoeUILight;
+	font-size: 28px;
+	line-height: 1.78;
+	color: #fff;
+}
+
+.cheese {
+	font-family: SegoeUISemibold;
+	color: #fff;
+}
+
+.content5 {
+	height: 505px;
+	background-image: url(images/muzhik.gif);
+}
+
+.who {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #fff;
+	margin-top: 100px;
+	display: block;
+}
+
+.content5 .col-md-6.left p {
+	font-family: SegoeUIRegular;
+	font-size: 14px;
+	line-height: 1.78;
+	color: #fff;
+	margin-top: 25px;
+}
+
+.content5 .col-md-6.right p {
+	font-family: SegoeUIRegular;
+	font-size: 14px;
+	line-height: 1.78;
+	color: #fff;
+	margin-top: 169px;
+}
+
+.content5 ul {
+	margin-top: 40px;
+}
+
+.content5 ul a {
+	border: 2px solid #fff;
+	padding: 14px 10px 14px 10px;
+}
+
+.content6 {
+	height: 760px;
+}
+
+.testimonials {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	margin-top: 80px;
+	display: block;
+}
+
+.content6 p {
+	font-family: SegoeUILight;
+	font-size: 28px;
+	line-height: 1.78;
+	margin-top: 20px
+	padding-bottom: 20px;
+}
+
+.content6 .col-md-1 img {
+	margin-top: 80px;
+}
+
+.walter {
+	font-family: SegoeUIBold;
+	font-size: 14px;
+	color: #4bcaff;
+	margin-top: 45px !important;
+}
+
+.content7 {
+	margin-top: 60px;
+	height: 815px;
+	background-image: url(images/lastbg.jpg);
+}
+
+.cont {
+	text-transform: uppercase;
+	font-family: SegoeUILight;
+	font-size: 30px;
+	line-height: 0.8;
+	color: #fff;
+	margin-top: 75px;
+	display: block;
+}
+
+.content7 input {
+	display: block;
+	margin-top: -10px;
+	background: transparent;
+	border: 2px solid #fff;
+	width: 470px;
+	height: 58px;
+}
+
+.content7 textarea {
+	display: block;
+	width: 1170px;
+	height: 220px;
+	margin-top: -10px;
+	background: transparent;
+	border: 2px solid #fff;
+}
+
+.content7 .leeroy h3 {
+	margin-top: 35px;
+	color: #fff !important;
+	font-size: 14px;
+	line-height: 2;
+	font-family: SegoeUIBold;
+	text-transform: uppercase;
+}
+
+.content7 p {
+	font-family: SegoeUISemibold;
+	font-size: 14px;
+	line-height: 2;
+	color: #fff;
+	margin-top: 50px;
+}
+
+.adress {
+	font-family: SegoeUISemibold;
+	font-size: 14px;
+	line-height: 2;
+	color: #fff;
+	margin-top: 5px;
+}
+
+.content7 button {
+	width: 370px;
+	height: 60px;
+	background-color: #4bcaff;
+	color: #fff;
+	padding: 18px 153px 26px 153px;
+	border: none;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+
+.sobaka {
+	margin-top: -1px;
+	height: 170px;
+	background-color: #353f47;
+}
+
+.sobaka ul {
+	text-decoration: none;
+	text-transform: uppercase;
+	list-style-type: none;
+	display: inline;
+	float: left;
+	margin-top: 80px;
+}
+
+.sobaka ul li {
+	display: inline;
+	color: #515f67;
+	font-family: SegoeUISemibold;
+	font-size: 12px;
+}
+
+.sobaka ul li a {
+	display: inline;
+	color: #515f67;
+	font-size: 12px;
+	line-height: 2;
+	font-family: SegoeUISemibold;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.sobaka .col-md-1 {
+	font-family: SegoeUISemibold;
+	font-size: 12px;
+	margin-top: 80px;
+	color: #515f67;
+}
